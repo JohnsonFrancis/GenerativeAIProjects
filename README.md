@@ -1,4 +1,4 @@
-# GenerativeAIProjects
+# Generative AI Projects
 A repository for my Gen AI Experiments
 
 ### 1) Hugchat API implementation
