@@ -15,9 +15,12 @@ A repository for my Gen AI Experiments
   - Activeloop Deep Lake API with LangChain
   - Google search API wiht LangChain
 
-### 4) gpt2, gpt-3.5-Turbo & gpt-4 implementation
+### 5) gpt2, gpt-3.5-Turbo & gpt-4 implementation
   - gpt2 for AutoTokenizer (Library-langchain,transformers)
   - gpt-3.5-Turbo for Text summarization, Translation & chat (Library-langchain,newspaper)
   - gpt-4 for Q&A & chat (Library-langchain)
   - text-davinci-003 for Q&A (Library-langchain)
   - flan-t5-large for Q&A (Library-langchain)
+    
+### 6) gpt4all implementation
+  - gpt4all-lora-quantized-ggm model for Q&A (Library-langchain)
