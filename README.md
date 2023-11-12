@@ -24,3 +24,18 @@ A repository for my Gen AI Experiments
     
 ### 6) gpt4all implementation
   - gpt4all-lora-quantized-ggm model for Q&A (Library-langchain)
+
+### 7) News Articles Summarizer Project
+  - gpt-3.5-turbo & text-davinci-003 (Library-langchain)
+
+### 8) Knowledge Graph Project
+  - text-davinci-003 (Library-langchain,pyvis)
+
+### 9) LangChain's Example Selectors & Output Parsers
+  - text-embedding-ada-002 & text-davinci-003 (Library-langchain)
+
+### 10) LangChain's Indexes and Retrievers
+  - text-embedding-ada-002 & text-davinci-003 (Library-langchain)
+
+### 11) LangChain's Text Splitters
+  - (Library-langchain,NLTK,Spacy)
