@@ -39,3 +39,15 @@ A repository for my Gen AI Experiments
 
 ### 11) LangChain's Text Splitters
   - (Library-langchain,NLTK,Spacy)
+
+### 12) LangChain's Embeddings
+  - OpenAIEmbeddings(model:"text-embedding-ada-002")(Library-langchain)
+  - HuggingFaceEmbeddings(model:"sentence-transformers/all-mpnet-base-v2")(Library-langchain)
+  - CohereEmbeddings(model:"embed-multilingual-v2.0")(Library-langchain)
+
+### 13) RAG with LLM Bots
+  - ApifyWrapperfor web crawling (Library-langchain)
+  - CohereEmbeddings(model:"embed-english-v2.0")(Library-langchain)
+  - CohereRerank(model:'rerank-english-v2.0')(Library-langchain)
+  - ChatOpenAI(model:"gpt-3.5-turbo")(Library-langchain)
+  - streamlit for Chat UI
