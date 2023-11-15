@@ -51,3 +51,15 @@ A repository for my Gen AI Experiments
   - CohereRerank(model:'rerank-english-v2.0')(Library-langchain)
   - ChatOpenAI(model:"gpt-3.5-turbo")(Library-langchain)
   - streamlit for Chat UI
+
+### 14) YouTube Video Summarizer 
+  - Youtube Video Download (Library-yt_dlp,ffmpeg)
+  - Transcibing Video (Library-whisper)
+  - Summarization by text-davinci-003 (Library-langchain)
+  - text-embedding-ada-002 for embeddings (Library-langchain)
+  - Deeplake for vector store (Library-langchain)
+
+### 15) Customer Support QnA Chatbot
+  - text-embedding-ada-002 for embeddings (Library-langchain)
+  - text-davinci-003 for answer generation (Library-langchain)
+  - Deeplake for vector store (Library-langchain)
