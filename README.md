@@ -63,3 +63,12 @@ A repository for my Gen AI Experiments
   - text-embedding-ada-002 for embeddings (Library-langchain)
   - text-davinci-003 for answer generation (Library-langchain)
   - Deeplake for vector store (Library-langchain)
+
+### 16) GPT4ALL-J QnA bot
+  - gpt4all-j-v1.3-groovy (Library-langchain)
+
+### 17) GPT4ALL-J Code Gen & Translate
+  - gpt4all-j-v1.3-groovy (Library-langchain)
+
+### 18) HuggingFaceH4-starchat-beta Code Gen & Translate
+  - HuggingFaceH4starchat-beta (Library-langchain)
