@@ -71,4 +71,4 @@ A repository for my Gen AI Experiments
   - gpt4all-j-v1.3-groovy (Library-langchain)
 
 ### 18) HuggingFaceH4-starchat-beta Code Gen & Translate
-  - HuggingFaceH4starchat-beta (Library-langchain)
+  - HuggingFaceH4starchat-beta API (Library-langchain)
