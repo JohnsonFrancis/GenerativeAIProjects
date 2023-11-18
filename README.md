@@ -72,3 +72,7 @@ A repository for my Gen AI Experiments
 
 ### 18) HuggingFaceH4-starchat-beta Code Gen & Translate
   - HuggingFaceH4starchat-beta API (Library-langchain)
+
+### 19) GPT4 Code Understanding
+  - OpenAIEmbeddings API (Library-langchain)
+  - gpt-3.5-turbo API (Library-langchain)
