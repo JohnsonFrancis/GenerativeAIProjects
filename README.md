@@ -76,3 +76,9 @@ A repository for my Gen AI Experiments
 ### 19) GPT4 Code Understanding
   - OpenAIEmbeddings API (Library-langchain)
   - gpt-3.5-turbo API (Library-langchain)
+
+### 20) Constitutional AI
+  - ConstitutionalChain & ConstitutionalPrinciple (Library-langchain)
+
+### 21) LangChain Memory Types
+  - ConversationBufferMemory, ConversationBufferWindowMemory & ConversationSummaryMemory (Library-langchain)
