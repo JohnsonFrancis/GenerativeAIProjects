@@ -11,7 +11,7 @@ import os
 
 @st.cache_resource  # This will run only once
 def get_llm_qa():
-    workingFolder='C:\\Users\\jfrancis\\OneDrive - GalaxE. Solutions, Inc\\GalaxE D Drive\\AI Journey\\Gen AI\\'
+    workingFolder='C:\\Users\\jfrancis\\AI Journey\\Gen AI\\'
     # Read the configuration file
     config = configparser.ConfigParser()
     config.read(workingFolder+'\\config.ini')
