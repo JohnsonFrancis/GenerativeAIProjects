@@ -82,3 +82,9 @@ A repository for my Gen AI Experiments
 
 ### 21) LangChain Memory Types
   - ConversationBufferMemory, ConversationBufferWindowMemory & ConversationSummaryMemory (Library-langchain)
+
+### 22) GIT Hub Chat App
+  - OpenAIEmbeddings API (Library-langchain)
+  - ChatOpenAI (Library-langchain)
+  - streamlit for Chat UI (Library-streamlit)
+  - Deeplake for vector store (Library-langchain)
