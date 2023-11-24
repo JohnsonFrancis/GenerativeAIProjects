@@ -88,3 +88,16 @@ A repository for my Gen AI Experiments
   - ChatOpenAI (Library-langchain)
   - streamlit for Chat UI (Library-streamlit)
   - Deeplake for vector store (Library-langchain)
+
+### 23) QnA with pdf
+  - Huggingface sentence-transformers/all-mpnet-base-v2 for embeddings (Library-langchain)
+  - Deeplake for Vector store (Library-langchain)
+  - OpenAI for QnA LLM (Library-langchain)
+
+### 24) LangChain Tools & Agents
+  - GoogleSearch,Requests,Python-REPL,Wikipedia,Wolfrom-Alpha (Library-langchain)
+
+### 25) Creating Bing like Chatbot
+  - OpenAIEmbeddings API (Library-langchain)
+  - OpenAI (Library-langchain)
+  - Cosine similarity (Library-sklearn)
