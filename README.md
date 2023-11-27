@@ -94,10 +94,33 @@ A repository for my Gen AI Experiments
   - Deeplake for Vector store (Library-langchain)
   - OpenAI for QnA LLM (Library-langchain)
 
-### 24) LangChain Tools & Agents
+### 24) QnA with pdf- Custom Tool
+  - Huggingface sentence-transformers/all-mpnet-base-v2 for embeddings (Library-langchain)
+  - Deeplake for Vector store (Library-langchain)
+  - OpenAI for QnA LLM (Library-langchain)
+  - flan-t5-large for Q&A (Library-langchain)
+  - 
+### 25) LangChain Tools & Agents
   - GoogleSearch,Requests,Python-REPL,Wikipedia,Wolfrom-Alpha (Library-langchain)
 
-### 25) Creating Bing like Chatbot
+### 26) Creating Bing like Chatbot
   - OpenAIEmbeddings API (Library-langchain)
   - OpenAI (Library-langchain)
   - Cosine similarity (Library-sklearn)
+
+### 27) Autonomous Agents with LangChain
+  - OpenAIEmbeddings API (Library-langchain)
+  - ChatOpenAI (Library-langchain)
+  - PlanAndExecute, load_agent_executor, load_chat_planner (Library-langchain_experimental)
+
+### 28) BabyAGI with FAISS Vector store
+  - OpenAIEmbeddings API (Library-langchain)
+  - OpenAI (Library-langchain)
+  - BabyAGI (Library-langchain_experimental)
+  - FAISS (Library-faiss-cpu)
+
+### 29) AutoGPT with FAISS Vector store
+  - OpenAIEmbeddings API (Library-langchain)
+  - ChatOpenAI (Library-langchain)
+  - AutoGPT (Library-langchain_experimental)
+  - FAISS (Library-faiss-cpu)
